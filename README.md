@@ -21,7 +21,6 @@ $ npm link
 Using the package on the web:
 ```
 $ cd ../..
-$ mkdir site
 $ cd site
 $ npm link hello-wasm
 ```
